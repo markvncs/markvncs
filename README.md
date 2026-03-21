@@ -8,7 +8,11 @@
 
 ###
 
-<h4 align="left">Sobre mim:</h4>
+<h3 align="left">Sobre mim:</h3>
+
+###
+
+<img align="right" height="204" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBhZmd5M3JocGlubGFzaDMwd3c5dWs5aTI2bnk4ODF5N3VkeTZvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPeqEzFVNkSdfiM/giphy.gif"  />
 
 ###
 
@@ -20,17 +24,15 @@
 
 ###
 
+<img align="left" height="184" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFoa3pzNnd1ZGh5Z3BrdDU3OHZjM2tiNWh5ZGZ5anlqdXFrd2dzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnnnWvRXTeXx3wc/giphy.gif"  />
+
+###
+
 <p align="left">• Desenvolvo aplicações full-stack, mas direciono meus estudos para me especializar em backend.</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBhZmd5M3JocGlubGFzaDMwd3c5dWs5aTI2bnk4ODF5N3VkeTZvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPeqEzFVNkSdfiM/giphy.gif"  />
-</div>
-
-###
-
-<div align="left">
+<div align="right">
   <a href="https://www.instagram.com/mark.vncs/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
