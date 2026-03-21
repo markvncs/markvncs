@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">• Estudo práticas de estruturas de dados, programação orientada à objetos e desenvolvo projetos de aplicações diversas. Atualmente, atuo desenvolvendo projetos de desenvolvimento web por conta própria e pela Empreja Júnior de Computação da UnB (CJR).</p>
+<p align="left">• Estudo práticas de estruturas de dados, programação orientada a objetos e desenvolvo projetos de aplicações diversas. Atualmente, atuo desenvolvendo projetos de desenvolvimento web por conta própria e pela Empreja Júnior de Computação da UnB (CJR).</p>
 
 ###
 
@@ -75,20 +75,6 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<img align="left" height="204" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBhZmd5M3JocGlubGFzaDMwd3c5dWs5aTI2bnk4ODF5N3VkeTZvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPeqEzFVNkSdfiM/giphy.gif"  />
-
-###
-
-<img align="right" height="204" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFoa3pzNnd1ZGh5Z3BrdDU3OHZjM2tiNWh5ZGZ5anlqdXFrd2dzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnnnWvRXTeXx3wc/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img height="204" src="https://cdn-icons-gif.flaticon.com/14352/14352322.gif"  />
 </div>
 
 ###
