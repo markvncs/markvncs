@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">• Estudo práticas de estruturas de dados, programação orientada à objetos e desenvolvo projetos de aplicações diversas. Atualmente, atuo desenvolvendo projetos de desenvolvimento web por conta própria e pela Empreja Júnior de Computação da UnB (CJR).</p>
+<p align="left">• Estudo práticas de estruturas de dados, programação orientada a objetos e desenvolvo projetos de aplicações diversas. Atualmente, atuo desenvolvendo projetos de desenvolvimento web por conta própria e pela Empreja Júnior de Computação da UnB (CJR).</p>
 
 ###
 
