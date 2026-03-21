@@ -16,11 +16,17 @@
 
 ###
 
-<p align="left">• Estudo práticas de estruturas de dados, programação orientada a objetos e desenvolvo projetos de aplicações diversas. Atualmente, atuo desenvolvendo projetos de desenvolvimento web por conta própria e pela Empreja Júnior de Computação da UnB (CJR).</p>
+<p align="left">• Estudo práticas de estruturas de dados, programação orientada à objetos e desenvolvo projetos de aplicações diversas. Atualmente, atuo desenvolvendo projetos de desenvolvimento web por conta própria e pela Empreja Júnior de Computação da UnB (CJR).</p>
 
 ###
 
 <p align="left">• Desenvolvo aplicações full-stack, mas direciono meus estudos para me especializar em backend.</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
