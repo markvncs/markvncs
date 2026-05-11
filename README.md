@@ -1,4 +1,4 @@
-<p align="left">web developer and computer engineer student at universidade de brasília (unb)</p>
+<p align="left">web developer and computer engineering student at universidade de brasília (unb)</p>
 
 ###
 
