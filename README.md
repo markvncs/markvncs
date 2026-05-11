@@ -1,43 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<h2 align="center">Olá, eu sou o Marcus 🎸</h2>
-
-###
-
-<h3 align="left">Sobre mim:</h3>
-
-###
-
-<p align="left">• Sou estudante de Engenharia na Universidade de Brasília (UnB) 🎒</p>
-
-###
-
-<p align="left">• Estudo práticas de estruturas de dados, programação orientada a objetos e desenvolvo projetos de aplicações diversas. Atualmente, atuo desenvolvendo projetos de desenvolvimento web por conta própria e pela Empreja Júnior de Computação da UnB (CJR).</p>
-
-###
-
-<p align="left">• Desenvolvo aplicações full-stack, mas direciono meus estudos para me especializar em backend.</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/mark.vncs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/marcus-morais-4574a2344/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="left">web developer and computer engineer at universidade de brasília (unb)</p>
 
 ###
 
