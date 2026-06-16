@@ -1,4 +1,4 @@
-<p align="left">web developer and computer engineering student at universidade de brasília (unb)</p>
+<p align="left">computer engineer student at universidade de brasília (unb), focused on back-end development, firmware and embedded systems applications.</p>
 
 ###
 
