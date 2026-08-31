@@ -1,20 +1,22 @@
 # Marcus Vinícius Guedes Morais
 
-Estudante de Engenharia de Computação na Universidade de Brasília (UnB), com foco em Desenvolvimento Back-End, Sistemas Embarcados, Inteligência Artificial e Visão Computacional.
+Estudante de Engenharia de Computação na Universidade de Brasília (UnB), com foco em Desenvolvimento de Software e Cibersegurança.
 
-Tenho interesse em desenvolver soluções que integrem software e hardware, aplicando conceitos de arquitetura de software, sistemas embarcados e IA para resolver problemas reais. Atualmente, busco aprofundar meus conhecimentos em desenvolvimento de software, firmware e aplicações baseadas em inteligência artificial e visão computacional.
+Tenho interesse em construir soluções robustas e seguras, aplicando boas práticas de arquitetura de software, APIs e princípios de segurança da informação. Atualmente, estou aprofundando meus conhecimentos em Cibersegurança (web security, pentest, segurança de aplicações e redes) e em Inteligência Artificial / Visão Computacional, além de manter contato com Sistemas Embarcados como um interesse paralelo, unindo software e hardware em projetos pessoais.
 
 ---
 
 ## Tecnologias
 
-**Linguagens:** C | C++ | Python | JavaScript | TypeScript
+**Linguagens:** Python | JavaScript | TypeScript | C | C++
 
 **Back-End:** NestJS | Prisma ORM | APIs REST
 
-**Sistemas Embarcados:** ESP32 (ESP-IDF) | MSP430 | Desenvolvimento de Drivers | Comunicação Serial | Integração com Sensores
+**Cibersegurança:** *(em aprendizado)* | Web Security | Fundamentos de Segurança de Aplicações | Segurança de Redes | Pentest
 
 **Inteligência Artificial e Visão Computacional:** OpenCV | YOLO | Processamento de Imagens | Machine Learning | Deep Learning
+
+**Sistemas Embarcados**: ESP32 (ESP-IDF) | MSP430 | Comunicação Serial | Integração com Sensores
 
 **Ferramentas:** Git | GitHub
 
@@ -22,33 +24,36 @@ Tenho interesse em desenvolver soluções que integrem software e hardware, apli
 
 # Projetos
 
-## Sistema de Visão Computacional com ESP32-S3
+## Vitals
+Aplicação web para gerenciamento de projetos, com foco em hierarquização de tarefas/equipes, autenticação de usuários, validação de dados e boas práticas de segurança no back-end.
 
-Desenvolvimento de firmware utilizando ESP-IDF para captura de imagens com câmera OV3660, integrado a uma aplicação em Python utilizando OpenCV para processamento das imagens. O projeto inclui otimizações de memória com PSRAM e comunicação serial entre o dispositivo embarcado e o computador.
-
-**Tecnologias:** `ESP32-S3` `ESP-IDF` `C++` `Python` `OpenCV`
+**Tecnologias:** `NestJS` `Prisma ORM` `TypeScript` `APIs REST`
 
 ---
 
-## Sistema de Automação Embarcada
+## Projeto de Pesquisa em Inteligência Artificial *(Em desenvolvimento)*
+Projeto de iniciação tecnológica envolvendo Inteligência Artificial e Visão Computacional, explorando modelos de detecção de objetos e processamento de imagens, com integração pontual a hardware embarcado.
 
-Projeto desenvolvido com o microcontrolador MSP430 para automação de iluminação assistida por sensores físicos, realizando leitura de sensores e controle automático de dispositivos.
+**Tecnologias:** `Python` `YOLO` `OpenCV` `Machine Learning` `Deep Learning`
+
+---
+
+## Sistema de Visão Computacional com ESP32-S3
+Aplicação em Python com OpenCV para processamento de imagens capturadas por uma câmera OV3660, com firmware em ESP-IDF rodando no dispositivo embarcado e comunicação serial entre os dois.
+
+**Tecnologias:** `Python` `OpenCV` `ESP32-S3` `ESP-IDF` `C++`
+
+---
+
+## Sistema de Automação Embarcada *(projeto pessoal)*
+Automação de iluminação assistida por sensores físicos com o microcontrolador MSP430, incluindo leitura de sensores e controle automático de dispositivos.
 
 **Tecnologias:** `MSP430` `C` `Sistemas Embarcados`
 
 ---
 
-## Projeto de Pesquisa em Inteligência Artificial *(Em desenvolvimento)*
-
-Projeto de iniciação científica envolvendo Inteligência Artificial, Visão Computacional e Sistemas Embarcados, explorando modelos de detecção de objetos, processamento de imagens e integração entre software e hardware.
-
-**Tecnologias:** `Python` `YOLO` `OpenCV` `Machine Learning` `Deep Learning` `ESP32`
-
----
-
 ## Atualmente estudando
-
-Arquitetura de Software | Sistemas Embarcados | Inteligência Artificial | Visão Computacional | Machine Learning
+Cibersegurança | Arquitetura de Software | Inteligência Artificial | Visão Computacional | Machine Learning
 
 ---
 
