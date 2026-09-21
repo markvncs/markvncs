@@ -1,59 +1,42 @@
 # Marcus Vinícius Guedes Morais
 
-Estudante de Engenharia de Computação na Universidade de Brasília (UnB), com foco em Desenvolvimento de Software
+# Estudante de Engenharia de Computação | Desenvolvedor Back-End & Pesquisador
 
-Tenho interesse em construir soluções robustas e seguras, aplicando boas práticas de arquitetura de software, APIs e princípios de segurança da informação. Atualmente, estou aprofundando meus conhecimentos em Cibersegurança e em Inteligência Artificial / Visão Computacional, além de manter contato com Sistemas Embarcados como um interesse paralelo, unindo software e hardware em projetos pessoais.
+Estudante de Engenharia de Computação na Universidade de Brasília (UnB). Atuo no desenvolvimento de soluções robustas de software, com foco em back-end, e atualmente desenvolvo pesquisa explorando Inteligência Artificial e Visão Computacional.
 
----
-
-## Tecnologias
-
-**Linguagens:** Python | JavaScript | TypeScript | C | C++
-
-**Back-End:** NestJS | Prisma ORM | APIs REST
-
-**Cibersegurança:** *(em aprendizado)* | Web Security | Fundamentos de Segurança de Aplicações | Segurança de Redes | Pentest
-
-**Inteligência Artificial e Visão Computacional:** OpenCV | YOLO | Processamento de Imagens | Machine Learning | Deep Learning
-
-**Sistemas Embarcados**: ESP32 (ESP-IDF) | MSP430 | Comunicação Serial | Integração com Sensores
-
-**Ferramentas:** Git | GitHub
+Meu foco é construir APIs escaláveis, estruturar integrações de dados eficientes e aplicar modelos de machine learning para resolver problemas reais.
 
 ---
 
-# Projetos
+## 🛠 Tecnologias
 
-## Vitals
-Aplicação web para gerenciamento de projetos, com foco em hierarquização de tarefas/equipes, autenticação de usuários, validação de dados e boas práticas de segurança no back-end.
-
-**Tecnologias:** `NestJS` `Prisma ORM` `TypeScript` `APIs REST`
-
----
-
-## Projeto de Pesquisa em Inteligência Artificial *(Em desenvolvimento)*
-Projeto de iniciação tecnológica envolvendo Inteligência Artificial e Visão Computacional, explorando modelos de detecção de objetos e processamento de imagens, com integração pontual a hardware embarcado.
-
-**Tecnologias:** `Python` `YOLO` `OpenCV` `Machine Learning` `Deep Learning`
+* **Linguagens:** TypeScript | JavaScript | Python | C | C++
+* **Back-End & Bancos de Dados:** NestJS | Next.js | Node.js | Prisma ORM | PostgreSQL | MongoDB | APIs REST
+* **Dados & Integrações:** Web Scraping | Integração de APIs | Manipulação de Dados
+* **IA e Visão Computacional:** OpenCV | YOLO | Processamento de Imagens
+* **Sistemas Embarcados & Hardware:** ESP32 (ESP-IDF) | MSP430 | Logisim | Comunicação Serial
+* **Ferramentas:** Git | GitHub | Linux (CLI)
 
 ---
 
-## Sistema de Visão Computacional com ESP32-S3
-Aplicação em Python com OpenCV para processamento de imagens capturadas por uma câmera OV3660, com firmware em ESP-IDF rodando no dispositivo embarcado e comunicação serial entre os dois.
+## 🚀 Projetos Principais
 
-**Tecnologias:** `Python` `OpenCV` `ESP32-S3` `ESP-IDF` `C++`
+### Vitals
+Aplicação web para gerenciamento de projetos e saúde de equipes. Focado na hierarquização de tarefas, autenticação de usuários e boas práticas de arquitetura no back-end.
+> **Tecnologias:** `NestJS`, `Prisma ORM`, `TypeScript`, `PostgreSQL`
+
+### Sistema de Visão Computacional com ESP32-S3
+Aplicação em Python com OpenCV para processamento de imagens capturadas por uma câmera OV3660. O firmware roda em ESP-IDF no dispositivo embarcado, estabelecendo comunicação serial com o script de visão.
+> **Tecnologias:** `Python`, `OpenCV`, `ESP32-S3`, `ESP-IDF`, `C++`
+
+### Automação de Iluminação Assistida
+Projeto de hardware utilizando o microcontrolador MSP430. O sistema integra sensores físicos (PIR), controle remoto IR e display LCD para automação de iluminação com controle de intensidade (PWM).
+> **Tecnologias:** `MSP430`, `C`, `Sistemas Embarcados`
 
 ---
 
-## Sistema de Automação Embarcada *(projeto pessoal)*
-Automação de iluminação assistida por sensores físicos com o microcontrolador MSP430, incluindo leitura de sensores e controle automático de dispositivos.
-
-**Tecnologias:** `MSP430` `C` `Sistemas Embarcados`
-
----
-
-## Atualmente estudando
-Cibersegurança | Arquitetura de Software | Inteligência Artificial | Visão Computacional | Machine Learning
+## 📚 Atualmente aprofundando em:
+Integração de APIs | Web Scraping & Extração de Dados | Arquitetura de Software | Machine Learning | Visão Computacional
 
 ---
 
