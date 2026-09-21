@@ -1,8 +1,8 @@
 # Marcus Vinícius Guedes Morais
 
-Estudante de Engenharia de Computação na Universidade de Brasília (UnB), com foco em Desenvolvimento de Software e Cibersegurança.
+Estudante de Engenharia de Computação na Universidade de Brasília (UnB), com foco em Desenvolvimento de Software
 
-Tenho interesse em construir soluções robustas e seguras, aplicando boas práticas de arquitetura de software, APIs e princípios de segurança da informação. Atualmente, estou aprofundando meus conhecimentos em Cibersegurança (web security, pentest, segurança de aplicações e redes) e em Inteligência Artificial / Visão Computacional, além de manter contato com Sistemas Embarcados como um interesse paralelo, unindo software e hardware em projetos pessoais.
+Tenho interesse em construir soluções robustas e seguras, aplicando boas práticas de arquitetura de software, APIs e princípios de segurança da informação. Atualmente, estou aprofundando meus conhecimentos em Cibersegurança e em Inteligência Artificial / Visão Computacional, além de manter contato com Sistemas Embarcados como um interesse paralelo, unindo software e hardware em projetos pessoais.
 
 ---
 
