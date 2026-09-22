@@ -22,8 +22,8 @@ Meu foco é construir APIs escaláveis, estruturar integrações de dados eficie
 ## 🚀 Projetos Principais
 
 ### Vitals
-Aplicação web para gerenciamento de projetos e saúde de equipes. Focado na hierarquização de tarefas, autenticação de usuários e boas práticas de arquitetura no back-end.
-> **Tecnologias:** `NestJS`, `Prisma ORM`, `TypeScript`, `PostgreSQL`
+Dashboard *full-stack* para gestão de projetos e monitorização de métricas de equipas. Desenvolvido com forte foco em arquitetura escalável no back-end, autenticação estruturada e modelação eficiente de dados.
+> **Tecnologias:** `Next.js`, `NestJS`, `Prisma ORM`, `TypeScript`, `PostgreSQL`
 
 ### Inspeção Ótica Automatizada (AOI) para PCBs
 Sistema de baixo custo que integra Inteligência Artificial, Visão Computacional e microcontroladores para deteção em tempo real de defeitos e falhas de soldadura em placas de circuito impresso (PCBs). Projeto de pesquisa (PIBITI) desenvolvido na Universidade de Brasília (UnB).
