@@ -25,9 +25,9 @@ Meu foco é construir APIs escaláveis, estruturar integrações de dados eficie
 Aplicação web para gerenciamento de projetos e saúde de equipes. Focado na hierarquização de tarefas, autenticação de usuários e boas práticas de arquitetura no back-end.
 > **Tecnologias:** `NestJS`, `Prisma ORM`, `TypeScript`, `PostgreSQL`
 
-### Sistema de Visão Computacional com ESP32-S3
-Aplicação em Python com OpenCV para processamento de imagens capturadas por uma câmera OV3660. O firmware roda em ESP-IDF no dispositivo embarcado, estabelecendo comunicação serial com o script de visão.
-> **Tecnologias:** `Python`, `OpenCV`, `ESP32-S3`, `ESP-IDF`, `C++`
+### Inspeção Ótica Automatizada (AOI) para PCBs
+Sistema de baixo custo que integra Inteligência Artificial, Visão Computacional e microcontroladores para deteção em tempo real de defeitos e falhas de soldadura em placas de circuito impresso (PCBs). Projeto de pesquisa (PIBITI) desenvolvido na Universidade de Brasília (UnB).
+> **Tecnologias:** `Python`, `OpenCV`, `YOLO`, `ESP32-S3`, `ESP-IDF`, `C++`
 
 ### Automação de Iluminação Assistida
 Projeto de hardware utilizando o microcontrolador MSP430. O sistema integra sensores físicos (PIR), controle remoto IR e display LCD para automação de iluminação com controle de intensidade (PWM).
